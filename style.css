@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto Mono", monospace;
+  background-image: linear-gradient(
+    to right,
+    rgb(85, 39, 220),
+    rgb(172, 38, 75)
+  );
+  color: black;
+}
+
+.header h1 {
+  margin-top: 10%;
+}
